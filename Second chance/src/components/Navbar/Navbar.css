@@ -1,0 +1,44 @@
+li {
+    list-style-type: none;
+}
+.navbar-brand  img{
+    height: 50px;
+}
+
+.navbar-wishi-icon {
+    width: 25px; 
+    height: auto; 
+    margin-right: 5px; 
+  }
+  .navbar-cart-iconi{
+    height: 25px;
+    width: 25px;
+  }
+  /* .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+} */
+
+
+
+.logout-btn {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  margin-right: 8px;
+  cursor: pointer;
+
+}
+
+.cancel-btn {
+  background-color: #6c757d;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,29 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.formTable{
+    width: 450px;
+    
+   
+   
+}
+.row{
+    display: flex;
+    justify-content: center;
+    padding-top: 1px;
+}
+
+.bgimg2{
+    /* background-image:url("../components/assets/reg.webp") ; */
+    background-size: cover;
+    height: 790px;
+   
+}
+.ccd{
+    color: white;
+}
+ 
+

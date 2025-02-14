@@ -1,0 +1,60 @@
+.popular{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height:  100vh;
+
+}
+.popular h1{
+    color: #e4c80b;
+    font-size: 50px;
+    font-weight: 600;
+    font-family:sans-serif;
+
+}
+.popular h2{
+    color: rgb(57, 98, 13);
+    font-size: 50px;
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+}
+.popular h3{
+    color: rgb(61, 39, 104);
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    font-family: cursive;
+}
+.popular h4{
+    color: #450202;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.popular h6{
+    color: red;
+    font-family:cursive;
+    font-size: 25px;
+    font-weight: 400;
+}
+.popular hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #450202;}
+ .popular-item{
+        margin-top: 50px;
+        display: flex;
+        gap: 30px;
+        height: 200px;
+   
+        
+   
+    }
+
+.para{
+    color: black;
+   text-align: center;
+   font-size: 20px;
+
+}
